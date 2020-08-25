@@ -19,7 +19,7 @@ docker.tasks = [
     "dockerd-entrypoint.sh &",
     "sleep 10",
     "pwd",
-    "cd /src/BrigadeProject",
+    "cd /src/",
     "pwd",
     "ls -lart",
     "docker build -t brigadeapp .",
