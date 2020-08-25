@@ -1,0 +1,15 @@
+# Assuming you have already created GitHub Account
+# Assuming repo is present that is similar to your project name
+
+project: "Rkahul/Brigadedocker"
+repository: "github.com/Rkahul/Brigadedocker"
+cloneURL: "https://github.com/Rkahul/Brigadedocker.git"
+
+# GitHub token can be generated
+# GitHub settings -> developer settings -> Personal access token -> Generate new token
+
+github:
+  token: "57604d9319c9d317d64ffe09848ac4a1bc6b1915"
+
+# own created SecreteKey
+sharedSecret: "Brigadedocker"
